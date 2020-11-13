@@ -1,7 +1,6 @@
 # inflearn-spring-introduction
 인프런 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술 강의에서 
-작성한 코드 입니다.  
-localhost:8080으로 접속이 가능하나 DB와 연동되어있기 때문에 H2 DB를 설치하여야 합니다.  
+작성한 코드 입니다. localhost:8080으로 접속이 가능하나 DB와 연동되어있기 때문에 H2 DB를 설치하여야 합니다.  
 만약 Repository를 바꾸고 싶다면 SpringConfig파일에서 저장소에 맞는 주석을 제거하면됩니다.
 
 
